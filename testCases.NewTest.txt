@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: testCases.NewTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.655 sec <<< FAILURE!
+beforeMethod(testCases.NewTest)  Time elapsed: 0.573 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at testCases.NewTest.beforeMethod(NewTest.java:18)
+
